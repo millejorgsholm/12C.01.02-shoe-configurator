@@ -8,6 +8,7 @@ svg {
 
 .g_to_interact_with {
   fill: transparent;
+  cursor: pointer;
 }
 
 path {
@@ -25,4 +26,8 @@ p {
   font-size: 25px;
   color: rgb(232, 111, 207);
   font-weight: 600;
+}
+
+.color_btn {
+  cursor: pointer;
 }
